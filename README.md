@@ -3,3 +3,4 @@
 
 <input type="button" value="Bouton à cliquer">
 <p> bouton</p>
+<p> Mais aussi depuis mon PC</p>
